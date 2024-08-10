@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Experience the app at: [CryptoVerseApp](https://crypto-universe-louis-9474b2.netlify.app/)
+Experience the app at: [CryptoVerseApp](https://crypto-verse.louis-anh-tran.com/)
 
 # Getting Started with Create React App
 
